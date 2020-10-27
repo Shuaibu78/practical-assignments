@@ -1,0 +1,2 @@
+pwd = "checking the present working directory"
+ls = "to list all files and folders in a directory"
